@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/shweta388/room.git/static/css/main.18c5f3d1.chunk.css",
+    "main.js": "/shweta388/room.git/static/js/main.12d9000a.chunk.js",
+    "main.js.map": "/shweta388/room.git/static/js/main.12d9000a.chunk.js.map",
+    "runtime-main.js": "/shweta388/room.git/static/js/runtime-main.44afc157.js",
+    "runtime-main.js.map": "/shweta388/room.git/static/js/runtime-main.44afc157.js.map",
+    "static/js/2.b5665040.chunk.js": "/shweta388/room.git/static/js/2.b5665040.chunk.js",
+    "static/js/2.b5665040.chunk.js.map": "/shweta388/room.git/static/js/2.b5665040.chunk.js.map",
+    "static/js/3.c10a6ddc.chunk.js": "/shweta388/room.git/static/js/3.c10a6ddc.chunk.js",
+    "static/js/3.c10a6ddc.chunk.js.map": "/shweta388/room.git/static/js/3.c10a6ddc.chunk.js.map",
+    "index.html": "/shweta388/room.git/index.html",
+    "static/css/main.18c5f3d1.chunk.css.map": "/shweta388/room.git/static/css/main.18c5f3d1.chunk.css.map",
+    "static/js/2.b5665040.chunk.js.LICENSE.txt": "/shweta388/room.git/static/js/2.b5665040.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.44afc157.js",
+    "static/js/2.b5665040.chunk.js",
+    "static/css/main.18c5f3d1.chunk.css",
+    "static/js/main.12d9000a.chunk.js"
+  ]
+}
