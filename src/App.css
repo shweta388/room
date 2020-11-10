@@ -1,0 +1,39 @@
+.App .container {
+  border: 1px solid grey;
+  width: 80%;
+  margin: auto;
+  padding: 10px;
+}
+
+.row {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 0px;
+  border-bottom: 1px solid grey;
+}
+
+i {
+  color: rgb(12, 12, 151);
+}
+
+.fa-plus-circle {
+  color: rgb(236, 86, 111);
+  cursor: pointer;
+}
+
+.inner_div span {
+  padding: 0px 20px;
+}
+
+.fa {
+  font-size: 30px;
+}
+
+.fa-minus-circle {
+  cursor: pointer;
+}
+
+.disable_button {
+  color: rgb(66, 66, 211);
+  cursor: none;
+}
